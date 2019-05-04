@@ -1,4 +1,4 @@
-                                                 **Kavuri Bytes**
+                                                Kavuri Bytes
                                                  
  **Overview:** This application is developed for a restaurant. This app helps the customer to order food online from a list of options with guest checkout.
  
